@@ -1,8 +1,8 @@
 import { Helmet } from "react-helmet-async";
-import HeroSection from "@/components/HeroSection";
+
 import WallpaperGallery from "@/components/WallpaperGallery";
-import ProductShowcase from "@/components/ProductShowcase";
-import FloatingNavigation from "@/components/FloatingNavigation";
+
+
 
 const Index = () => {
   return (
